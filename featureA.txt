@@ -1,4 +1,4 @@
 print("hello World")
 print("Great Code ") 
 # ---------------------
-You have to write clean code bro
+You have to Read clean code bro
